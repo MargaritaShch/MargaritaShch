@@ -14,13 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=MargaritaShch&style=flat-square&color=blue" alt="" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="500" height="100"/>
-</div>
+
 
 ### :woman_technologist: About Me :
 ---
-I'm Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Front  Еnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margarita-shcherbakova-760003257/)
 ---
@@ -35,8 +33,4 @@ I'm Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MargaritaShch&theme=javascript-dark&border_radius=25)](https://git.io/streak-stats)
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaritaShch&theme=dark&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
