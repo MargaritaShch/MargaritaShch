@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 ---
-I'm Front  Еnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Rita. I'm Front  Еnd Developer with a year of experience in both team and solo projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margarita-shcherbakova-760003257/)
 ---
