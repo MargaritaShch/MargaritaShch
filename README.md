@@ -18,7 +18,8 @@
 
 ### :woman_technologist: About Me :
 ---
-My name is Rita. I'm Front  Еnd Developer with a year of experience in both team and solo projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Rita. 
+I'm Front  Еnd Developer with a year of experience in both team and solo projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margarita-shcherbakova-760003257/)
 ---
@@ -30,6 +31,7 @@ My name is Rita. I'm Front  Еnd Developer with a year of experience in both tea
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
