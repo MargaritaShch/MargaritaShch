@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Rita 👋</h1> 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pyYW1jYnhxYjRibWdldXVkNWhuNHd2YWt2MWd1MXdodHNvanVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ1HZe2QIQr7MBVACd/giphy.gif" width="350" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pyYW1jYnhxYjRibWdldXVkNWhuNHd2YWt2MWd1MXdodHNvanVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ1HZe2QIQr7MBVACd/giphy.gif" width="550" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,14 +16,28 @@
 
 
 
-### :woman_technologist: About Me :
+# :woman_technologist: About Me :
 ---
-My name is Rita. 
-I'm Front  Еnd Developer with a year of experience in both team and solo projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div>
+  <p align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, React, and Redux Toolkit.</p>
+  <p>Here are a few of my key skills:</p>
+  <ul>
+     <li> Proficiency in JavaScript, TypeScript, React, Redux, and Vue;</li> 
+     <li> Experience with HTML5, CSS3, and SCSS;</li>
+     <li> Strong command of Git, Webpack, Vite, and ESLint.</li>
+  </ul>
+  <p>I'd be happy to discuss potential collaboration.</p> 
+</div>
+
+## :envelope_with_arrow: Contacts :
+<ul align ="start">
+  <li>E-mail: marvshcherbakova@gmail.com </li>
+  <li>Telegram: @lia_nguema </li>
+</ul>
+
 ---
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margarita-shcherbakova-760003257/)
----
-### :hammer_and_wrench: Languages and Tools :
+
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
@@ -37,5 +51,11 @@ I'm Front  Еnd Developer with a year of experience in both team and solo projec
 </div>
 
 ---
-
+## :art: Projects : 
+   #### [Cosmetology Room](https://margaritashch.github.io/CosRoom/#ge) 
+   #### [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) 
+   #### [Watches-landing](https://margaritashch.github.io/Watches-landing/) 
+   
+  
+## :chart_with_downwards_trend: Most use languages : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaritaShch&theme=dark&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
