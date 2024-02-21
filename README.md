@@ -18,20 +18,18 @@
 # :woman_technologist: About Me :
 ---
 <div>
-  <p align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, React, and Redux Toolkit.</p>
+  <h3 align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, React, and Redux Toolkit.</h3>
   <p>Here are a few of my key skills:</p>
-  <ul>
-     <li> Proficiency in JavaScript, TypeScript, React, Redux, and Vue;</li> 
-     <li> Experience with HTML5, CSS3, and SCSS;</li>
-     <li> Strong command of Git, Webpack, Vite, and ESLint.</li>
-  </ul>
-  <p>I'd be happy to discuss potential collaboration.</p> 
+     <p> :heavy_check_mark: Proficiency in JavaScript, TypeScript, React, Redux, and Vue;</p> 
+     <p> :heavy_check_mark: Experience with HTML5, CSS3, and SCSS;</p>
+     <p> :heavy_check_mark: Strong command of Git, Webpack, Vite, and ESLint.</p>
 </div>
 
 ## :envelope_with_arrow: Contacts :
 <ul align ="start">
   <li>E-mail: marvshcherbakova@gmail.com </li>
   <li>Telegram: @lia_nguema </li>
+  <p align ="center">I'd be happy to discuss potential collaboration :relaxed:</p> 
 </ul>
 
 ---
