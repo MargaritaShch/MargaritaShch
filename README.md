@@ -50,10 +50,10 @@
 
 ---
 ## :art: Projects : 
-   #### [Photographer Portfolio](https://margaritashch.github.io/PhotographerPortfolio/)
-   #### [Cosmetology Room](https://margaritashch.github.io/CosRoom/#ge) 
-   #### [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) 
-   #### [Watches-landing](https://margaritashch.github.io/Watches-landing/) 
+   ### :camera: [Photographer Portfolio](https://margaritashch.github.io/PhotographerPortfolio/)
+   ### :nail_care: [Cosmetology Room](https://margaritashch.github.io/CosRoom/#ge) 
+   ### :high_brightness: [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) 
+   ### :watch: [Watches-landing](https://margaritashch.github.io/Watches-landing/) 
    
   
 ## :chart_with_downwards_trend: Most use languages : 
