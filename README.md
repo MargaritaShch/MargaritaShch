@@ -50,6 +50,7 @@
 
 ---
 ## :art: Projects : 
+   #### [Photographer Portfolio](https://margaritashch.github.io/PhotographerPortfolio/)
    #### [Cosmetology Room](https://margaritashch.github.io/CosRoom/#ge) 
    #### [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) 
    #### [Watches-landing](https://margaritashch.github.io/Watches-landing/) 
