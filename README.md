@@ -1,8 +1,6 @@
-<h1 align="center">Hi there, I'm Rita 👋</h1> 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pyYW1jYnhxYjRibWdldXVkNWhuNHd2YWt2MWd1MXdodHNvanVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ1HZe2QIQr7MBVACd/giphy.gif" width="550" height="300"/>
-</div>
+ ![Top Langs](https://github.com/MargaritaShch/MargaritaShch/assets/109623903/f151dfd8-644b-4694-9a77-81fc2ae2ebe5)
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/margarita-shcherbakova-760003257/">
