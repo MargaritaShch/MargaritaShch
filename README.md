@@ -1,8 +1,6 @@
 
  ![Top Langs](https://github.com/MargaritaShch/MargaritaShch/assets/109623903/0183955d-42eb-44d9-920a-e3512ffd7bb9)
 
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/margarita-shcherbakova-760003257/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,9 +12,8 @@
 </div>
 
 
-
 # :woman_technologist: About Me :
----
+
 <div>
   <h3 align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, React, and Redux Toolkit.</h3>
   <p>Here are a few of my key skills:</p>
@@ -24,6 +21,7 @@
      <p> :heavy_check_mark: Experience with HTML5, CSS3, and SCSS;</p>
      <p> :heavy_check_mark: Strong command of Git, Webpack, Vite, and ESLint.</p>
 </div>
+
 
 ## :envelope_with_arrow: Contacts :
 <ul align ="start">
@@ -54,7 +52,7 @@
    ### :high_brightness: [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) 
    ### :camera: [Photographer Portfolio](https://margaritashch.github.io/PhotographerPortfolio/)
    ### :watch: [Watches-landing](https://margaritashch.github.io/Watches-landing/) 
-   
-  
+---  
+ 
 ## :chart_with_downwards_trend: Most use languages : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaritaShch&theme=dark&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
