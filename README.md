@@ -50,9 +50,10 @@
 
 ---
 ## :art: Projects : 
-   ### :camera: [Photographer Portfolio](https://margaritashch.github.io/PhotographerPortfolio/)
+   ### :pencil: View link: [Design-blog](https://margaritashch.github.io/Design-Blog/)
    ### :nail_care: [Cosmetology Room](https://margaritashch.github.io/CosRoom/#ge) 
    ### :high_brightness: [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) 
+   ### :camera: [Photographer Portfolio](https://margaritashch.github.io/PhotographerPortfolio/)
    ### :watch: [Watches-landing](https://margaritashch.github.io/Watches-landing/) 
    
   
