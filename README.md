@@ -1,5 +1,6 @@
 
- ![Top Langs](https://github.com/MargaritaShch/MargaritaShch/assets/109623903/c8c9c973-dd69-4a59-b004-bd35594190d9)
+ ![Top Langs](https://github.com/MargaritaShch/MargaritaShch/assets/109623903/0183955d-42eb-44d9-920a-e3512ffd7bb9)
+
 
 
 <div id="badges" align="center">
