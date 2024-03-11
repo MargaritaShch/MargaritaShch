@@ -55,7 +55,7 @@
 
  ### _JavaScript_:
    #### :nail_care: View link: [Cosmetology Room](https://margaritashch.github.io/CosRoom/#ge) / [Repository](https://github.com/MargaritaShch/CosRoom) 
-
+   #### :high_brightness: View link: [VALANTIS JEWELLERY](https://margaritashch.github.io/VALANTIS/) / [Repository](https://github.com/MargaritaShch/VALANTIS)
  ### _HTML/CSS_:
   #### :high_brightness: View link: [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) / [Repository](https://github.com/MargaritaShch/Design-Blog) 
   #### :watch: View link: [Watches-landing](https://margaritashch.github.io/Watches-landing/) / [Repository](https://github.com/MargaritaShch/Green-corp-landing) 
