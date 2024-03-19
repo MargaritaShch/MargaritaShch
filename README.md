@@ -17,9 +17,11 @@
 <div>
   <h3 align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, React, and Redux Toolkit.</h3>
   <p>Here are a few of my key skills:</p>
-     <p> :heavy_check_mark: Proficiency in JavaScript, TypeScript, React, Redux, and Vue;</p> 
-     <p> :heavy_check_mark: Experience with HTML5, CSS3, and SCSS;</p>
-     <p> :heavy_check_mark: Strong command of Git, Webpack, Vite, and ESLint.</p>
+     <p> :heavy_check_mark: <b> Frontend Development: </b> JavaScript, TypeScript, React, Redux, Vue, HTML, CSS, SCSS</p> 
+     <p> :heavy_check_mark: <b>Version Control:</b> Git</p>
+     <p> :heavy_check_mark: <b>Assembler:</b> Webpack, Vite</p>
+     <p> :heavy_check_mark: <b>Testing:</b> JMetr, Prometheus, InfluxDB </p>
+     <p> :heavy_check_mark: <b>Others:</b> Jira, Confluence, Grafana</p>
 </div>
 
 
