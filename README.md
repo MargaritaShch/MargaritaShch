@@ -15,13 +15,14 @@
 # :woman_technologist: About Me :
 
 <div>
-  <h3 align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, React, and Redux Toolkit.</h3>
+  <h3 align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, Vue3, Pinia, TypeScript, React, Redux Toolkit.</h3>
   <p>Here are a few of my key skills:</p>
-     <p> :heavy_check_mark: <b> Frontend Development: </b> JavaScript, TypeScript, React, Redux, Vue, HTML, CSS, SCSS</p> 
+     <p> :heavy_check_mark: <b> Frontend Development: </b> JavaScript, TypeScript, React, Redux, Vue, Pinia, HTML, CSS, SCSS</p> 
+     <p> :heavy_check_mark: <b> Backend Development: </b> Java (Basic)</p> 
      <p> :heavy_check_mark: <b>Version Control:</b> Git</p>
      <p> :heavy_check_mark: <b>Assembler:</b> Webpack, Vite</p>
-     <p> :heavy_check_mark: <b>Testing:</b> JMetr, Prometheus, InfluxDB </p>
-     <p> :heavy_check_mark: <b>Others:</b> Jira, Confluence, Grafana</p>
+     <p> :heavy_check_mark: <b>Testing:</b> JMeter, Prometheus, InfluxDB </p>
+     <p> :heavy_check_mark: <b>Others:</b> Docker, Jira, Confluence, Grafana</p>
 </div>
 
 
