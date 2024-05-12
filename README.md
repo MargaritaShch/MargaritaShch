@@ -48,12 +48,6 @@
   
 </div>
 
----
-# :art: Projects : 
-
-  #### :high_brightness: View link: [Green-corp-landing](https://margaritashch.github.io/Green-corp-landing/) / [Repository](https://github.com/MargaritaShch/Design-Blog) 
-  #### :watch: View link: [Watches-landing](https://margaritashch.github.io/Watches-landing/) / [Repository](https://github.com/MargaritaShch/Green-corp-landing) 
----  
  
 # :chart_with_downwards_trend: Most use languages : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaritaShch&theme=dark&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
