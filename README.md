@@ -59,5 +59,10 @@
 </div>
 
  
+<div align="center">
+
 # :chart_with_downwards_trend: Most use languages : 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaritaShch&theme=dark&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
