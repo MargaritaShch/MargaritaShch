@@ -15,13 +15,13 @@
 # :woman_technologist: About Me :
 
 <div>
-  <h3 align="start">I'm a front-end developer with a year of practical experience. During this time, I've worked on both team projects and solo endeavors. My tech stack includes JavaScript, HTML, CSS, Vue3, Pinia, TypeScript, React, Redux Toolkit.</h3>
+  <h3 align="start">I'm a Frontend Developer and Performance Engineer with a passion for creating seamless and efficient user experiences.</h3> <p>As a <b>Frontend Developer</b>, I have over a year of practical experience in building interactive and responsive web applications. My work includes both team-based and solo projects, utilizing a tech stack that features JavaScript, HTML, CSS, Vue3, Pinia, TypeScript, React, and Redux Toolkit.</p> <p>As a <b>Performance Engineer</b>, I specialize in load testing and performance optimization. I leverage tools like JMeter, Locust, Prometheus, and InfluxDB to ensure systems are robust and can handle high traffic while maintaining optimal performance.</p>
   <p>Here are a few of my key skills:</p>
      <p> :heavy_check_mark: <b> Frontend Development: </b> JavaScript, TypeScript, React, Redux, Vue, Pinia, HTML, CSS, SCSS</p> 
-     <p> :heavy_check_mark: <b> Backend Development: </b> Java (Basic)</p> 
+     <p> :heavy_check_mark: <b> Backend Development: </b> Java (Basic), Python (Basic)</p> 
      <p> :heavy_check_mark: <b>Version Control:</b> Git</p>
      <p> :heavy_check_mark: <b>Assembler:</b> Webpack, Vite</p>
-     <p> :heavy_check_mark: <b>Testing:</b> JMeter, Prometheus, InfluxDB </p>
+     <p> :heavy_check_mark: <b>Testing:</b> JMeter, Locust, Prometheus, InfluxDB </p>
      <p> :heavy_check_mark: <b>Others:</b> Docker, Jira, Confluence, Grafana</p>
 </div>
 
@@ -46,8 +46,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-line-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp; 
@@ -55,6 +57,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="InfluxDB" alt="InfluxDB" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-plain.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; 
+  
+  
 </div>
 
  
