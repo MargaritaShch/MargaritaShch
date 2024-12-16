@@ -1,5 +1,5 @@
 
- ![Top Langs](https://github.com/MargaritaShch/MargaritaShch/assets/109623903/0183955d-42eb-44d9-920a-e3512ffd7bb9)
+ ![Performance Engineer](https://github.com/user-attachments/assets/41a92d00-b76a-4a4d-92c6-9479d016901a) 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/margarita-shcherbakova-760003257/">
