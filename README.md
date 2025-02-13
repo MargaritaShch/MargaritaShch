@@ -12,22 +12,22 @@
 </div>
 
 
-# :woman_technologist: About Me :
+# 👩‍💻 About Me
 
-<div>
-  <h3 align="start">I'm a Performance Engineer with a passion for ensuring system reliability, stability, and scalability under load.</h3> <p>As a <b>Performance Engineer</b>, I specialize in load testing, performance profiling, and system optimization. My expertise includes developing and maintaining load testing methodologies, creating and supporting load scripts, and conducting in-depth analysis of system performance. I have hands-on experience with tools like JMeter, Locust, and LoadRunner, and I’m proficient in profiling JVM applications to identify bottlenecks, such as OutOfMemoryError and StackOverflowError, and developing solutions to optimize performance.</p> <p>In addition to performance engineering, I have experience in backend development, including creating stubs and emulators for external systems using Python, Java, and Spring Boot. I also have experience optimizing SQL queries and profiling database performance for PostgreSQL.</p> <p>Here are a few of my key skills and competencies:</p>
- <p> ✅ <b>Performance Testing and Optimization:</b> Load testing methodologies, script development, performance profiling, and system optimization using JMeter, Locust, and LoadRunner.</p> 
- <p> ✅ <b>Backend Development:</b> Creating stubs and emulators for external systems using Python, Java, and Spring Boot.</p> 
- <p> ✅ <b>Database Performance:</b> Optimization of SQL queries and profiling PostgreSQL performance using tools like pg_stat.</p> 
- <p> ✅ <b>Monitoring and Analysis:</b> Setting up and utilizing performance monitoring tools like Grafana and Prometheus to track system health and identify bottlenecks.</p> 
- <p> ✅ <b>System Tools and Utilities:</b> Docker, Kubernetes, Jira, and Confluence.</p> 
- <p> ✅ <b>Programming Skills:</b> Python, Java, SQL, and JavaScript.</p> 
- 
- <h3 align="start">Frontend Development Experience</h3> <p>While my primary focus is on performance engineering, I also have experience in <b>Frontend Development</b>. I have worked on both team-based and solo projects to create responsive and interactive web applications. My tech stack includes JavaScript, HTML, CSS, Vue3, Pinia, TypeScript, React, and Redux Toolkit.</p> <p>Here are a few of my key frontend skills:</p> 
- <p> ✅ <b>Frontend Development:</b> Proficient in JavaScript, TypeScript, React, Redux, Vue, Pinia, HTML, CSS, and SCSS.</p> 
- <p> ✅ <b>Build Tools:</b> Experienced with Webpack and Vite for efficient application bundling.</p> 
- <p> ✅ <b>Version Control:</b> Experienced in using Git for version control and collaborative development.</p> </div>
-</div>
+### Performance Engineer | Load & Performance Testing
+
+I am a **Performance Engineer** focused on ensuring system reliability, stability, and scalability under load. My expertise includes:
+
+✅ **Load Testing & Profiling** – JMeter, Locust, LoadRunner  
+✅ **Performance Optimization** – Identifying and resolving bottlenecks (JVM profiling, OutOfMemoryError, StackOverflowError)  
+✅ **Backend & Stubs** – Creating test environments using Python, Java, Spring Boot  
+✅ **Database Performance** – Optimizing SQL queries, PostgreSQL profiling (pg_stat)  
+✅ **Monitoring & Analysis** – Grafana, Prometheus  
+✅ **DevOps Tools** – Docker, Kubernetes, Git, Jira, Confluence  
+
+### 💡 Hobbies: Frontend Development
+
+I also enjoy **Frontend Development** and have experience with **JavaScript, TypeScript, React, Redux, Vue3, Pinia, HTML, CSS, SCSS**. I’ve worked on solo and team-based projects, creating responsive and interactive applications.  
 
 
 # :envelope_with_arrow: Contacts :
