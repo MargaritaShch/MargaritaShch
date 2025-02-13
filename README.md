@@ -2,6 +2,9 @@
  ![Performance Engineer](https://github.com/user-attachments/assets/41a92d00-b76a-4a4d-92c6-9479d016901a) 
 
 <div id="badges" align="center">
+ 
+
+  
   <a href="https://www.linkedin.com/in/margarita-shcherbakova-760003257/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,8 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=MargaritaShch&style=flat-square&color=blue" alt="" />
 </div>
 
+<div align="center">
 
 # 👩‍💻 About Me
+
+</div>
+
 
 ### Performance Engineer | Load & Performance Testing
 
@@ -82,4 +89,8 @@ I also enjoy **Frontend Development** and have experience with **JavaScript, Typ
 
 </div>
 
-# :envelope_with_arrow: CONTACTS : Telegram: @rita_nguema 
+# :envelope_with_arrow: CONTACTS : 
+<ul>
+ <li>Telegram: @rita_nguema </li>
+ <li>Email: naominguema2617@gmail.com </li>
+</ul>
